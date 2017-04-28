@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hibernate-validator:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hibernate-validator.war">
+      <element id="artifact" artifact-name="hibernate-validator:war exploded" />
+    </root>
+  </artifact>
+</component>
